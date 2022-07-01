@@ -2203,7 +2203,7 @@ input, select, textarea {
 		.image.main {
 			display: block;
 			margin: 2.5em 0;
-			width: 100%;
+			width: 75%;
 		}
 
 			.image.main img {
@@ -3380,7 +3380,7 @@ input, select, textarea {
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		background-image: url("../../images/sdm2.png");
+		
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
